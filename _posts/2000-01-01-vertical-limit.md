@@ -8,7 +8,7 @@ tag:
 images: 
     - image: /assets/img/vertical-limit/HELVIG.png
       caption: Tristan
-    - image: /assets/img/vertical-limit/SYBILL.png
+    - image: /assets/img/vertical-limit/SYNDELL.png
       caption: Sybill
 
 ---

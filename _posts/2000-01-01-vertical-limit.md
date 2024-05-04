@@ -7,7 +7,7 @@ tag:
     - vertical-limit
 images: 
     - image: /assets/img/vertical-limit/HELVIG.png
-      caption: Tristan
+      caption: Helvig
     - image: /assets/img/vertical-limit/SYNDELL.png
       caption: Syndell
     - image: /assets/img/vertical-limit/JAVELIN.png

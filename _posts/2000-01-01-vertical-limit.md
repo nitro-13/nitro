@@ -13,11 +13,11 @@ images:
     - image: /assets/img/vertical-limit/JAVELIN.png
       caption: Javelin
     - image: /assets/img/vertical-limit/SENTINEL_INSIGNIA.png
-    caption: Sentinel insignia
+      caption: Sentinel insignia
     - image: /assets/img/vertical-limit/SENTINEL_UNIFORM.png
-    caption: Sentinel uniform
+      caption: Sentinel uniform
     - image: /assets/img/vertical-limit/KOMA_ALPHABET.png
-    caption: Koma alphabet
+      caption: Koma alphabet
 
 ---
 {% include toc.html %}

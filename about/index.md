@@ -20,12 +20,7 @@ This website is graciously hosted by Github, with the Jekyll theme **Ramme** cre
 
 **James Clavel**
 
-     
-Links:
 
-[Wattpad](https://www.wattpad.com/user/nitro-13){: .btn}
-
-[Patreon](https://www.patreon.com/user?u=84264845){: .btn}
    
       
 

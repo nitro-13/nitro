@@ -9,7 +9,7 @@ layout: post
 
 <img  width="600vw" src="{{ site.url }}/assets/img/articles//windy-tales/1.png"/>
 
-*flying cats and mellow vibes*
+<center><i>flying cats and mellow vibes</i></center>
 
 Do you have a piece of media that is your ‘_comfort thing_’ during times when you feel emotionally exhausted? I have a few, some stranger than others, some more obscure, and the latest in my collection is a beautiful slice-of-life anime called Windy Tales.
 
@@ -29,7 +29,7 @@ The main characters are **Nao**, a very endearing girl with a passion for photog
 
 <img  width="600vw" src="{{ site.url }}/assets/img/articles//windy-tales/2.png"/>
 
-*the main trio*
+<center><i>the main trio</i></center>
 
 The start of the show is quite striking, and while I won’t spoil much, I’d say that once the trio gets to the Japanese countryside in search of their teacher, we are treated to some of the greatest imagery, music, and storytelling in the show. Windy Tales is not heavy on lore, but what little it has, it ‘_dumps_’ in the first episode in quite a masterful way. It is a bittersweet introduction to the world of the wind manipulators.
 
@@ -86,7 +86,7 @@ There is no great overarching story in Windy Tales. The anime starts at one poin
 
 <img  width="600vw" src="{{ site.url }}/assets/img/articles//windy-tales/4.png"/>
 
-*Cherry blossoms, as seen in episode 12*
+<center><i>Cherry blossoms, as seen in episode 12</i></center>
 
 There is something beautiful about Windy Tales that cannot be put into words. Its art seems crude at first, but it’s elegant in its minimalistic approach, simple by design (this is a Production I.G. anime, so I doubt resources were scarce). It looks the way it looks, it sounds the way it sounds and it plays the way it plays because it’s the best way to tell this story. It is art in its optimal form for the narrative it portrays; just like you couldn’t picture a better tool to eat soup than a spoon, you couldn't find a superior version of this anime. It does what peak art does best, hiding all the seams and making the end product appear fully realized, a cohesive experience and not a sum of its parts.
 
@@ -98,7 +98,7 @@ If all this sounds even remotely interesting to you, I deeply encourage you to w
 
 Sources
 
-1. Ebert, R. (n.d.). _Hayao Miyazaki interview: Interviews: Roger Ebert_. Interviews | Roger Ebert. [https://www.rogerebert.com/interviews/hayao-miyazaki-interview](https://www.rogerebert.com/interviews/hayao-miyazaki-interview)
+1. Ebert, R. (n.d.). _Hayao Miyazaki interview: Interviews: Roger Ebert_. Interviews / Roger Ebert. [https://www.rogerebert.com/interviews/hayao-miyazaki-interview](https://www.rogerebert.com/interviews/hayao-miyazaki-interview)
 
 2. Wikimedia Foundation. (2023, October 10). _MA (negative space)_. Wikipedia. [https://en.wikipedia.org/wiki/Ma\_(negative\_space)](https://en.wikipedia.org/wiki/Ma_(negative_space))
 

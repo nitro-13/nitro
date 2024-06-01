@@ -7,7 +7,7 @@ layout: post
 # Windy Tales soothes my heart
 
 
-<img width="300vw" src="{{ site.url }}/assets/img/articles//windy-tales/1.png"/>
+<img  width="600vw" src="{{ site.url }}/assets/img/articles//windy-tales/1.png"/>
 
 *flying cats and mellow vibes*
 
@@ -27,7 +27,7 @@ While Windy Tales is pretty episodic, each chapter handling a more-or-less self-
 
 The main characters are **Nao**, a very endearing girl with a passion for photography (particularly clouds), **Miki**, her best friend and the other member of the photography club, and **Jun**, an energetic and kind-hearted classmate. While most characters are pretty episodic, it’s common to spot the flying cats and the math teacher, **Mr. Taiki**, or **Ryouko**, another student, both wind manipulators already by the time the story starts. There’s also a plethora of cute cats that float around on wind currents!
 
-<img width="300vw" src="{{ site.url }}/assets/img/articles//windy-tales/2.png"/>
+<img  width="600vw" src="{{ site.url }}/assets/img/articles//windy-tales/2.png"/>
 
 *the main trio*
 
@@ -36,6 +36,7 @@ The start of the show is quite striking, and while I won’t spoil much, I’d s
 From then, the story gets fairly episodic, with varying degrees of quality, although you would be hard-pressed to find a ‘bad’ episode. My lowest-rated episode would be the tenth which, while having a clever premise, didn’t really work for me as well as the others, although it left a character’s actions ambiguous and had faith that the viewers would piece things together and figure out how a kid would act in such a situation.
 
 The best episode, edging the first by a small margin, would be episode five, **_School Infirmary Story_**, about **Mr. Makino**, a geography teacher who entertains his students with scary stories and does the childish thing of acting sick during recess to go to the infirmary and avoid the other teachers. There, he stumbles upon Nao, who’s sick with a fever, and to keep her entertained, he describes the joys of traveling alone to strange and foreign lands. This sequence plays over Nao’s fevered dream, an interpretation of Mr. Makino’s words, wonderfully complemented by the soundtrack. It is an episode worth seeing by itself, and I won’t cheat you out of the experience, but I’ll leave Mr. Makino’s monologue here just because it is one of the finest pieces of writing I ever heard, and the greatest description of the joy and excitement of traveling:
+
 
 **Nao:** You waited for the sunset for six days?  
 **Mr. Makino:** Stupid, right?
@@ -70,19 +71,20 @@ Pressing onward while drinking warm, sweet cola.
 The unidentified multi-colored birds,  
 flying between the tree branches.
 
+
 {% include youtube.html id="HkX-5mK8v2o" %}
 
 Animation is a wonderful medium because it requires a greater skill in observing day-to-day life. You can’t just prop up a camera, hit ‘record’, and call it a day, you need to design each and every element of the mise-en-scene. One could argue that every choice in animation is intentional, there are no ‘happy accidents’, or not on the scale that one can find in live-action.
 
 There is [a great **Roger Ebert** interview with **Hayao Miyazaki**](https://www.rogerebert.com/interviews/hayao-miyazaki-interview) about the concept of **_Ma (negative space)_**. Miyazaki and Ebert spoke about those moments of tranquility, the tiny actions such as stretching your back after sitting on a chair for too long, or wiping a pair of foggy glasses when it’s cold outside. Those moments show a great degree of empathy from the director and the animation staff because they are not plot-related, so they are added out of love for the world they are creating. Animation is not as utilitarian as live-action. You will find such care for the little moments in Windy Tales. In fact, I’ll go as far as to say that Windy Tales is 80% _Ma_.
 
-<img width="300vw" src="{{ site.url }}/assets/img/articles//windy-tales/3.png"/>
+<img  width="600vw" src="{{ site.url }}/assets/img/articles//windy-tales/3.png"/>
 
 There is no great overarching story in Windy Tales. The anime starts at one point in the characters’ lives and exits at another. One could say that the story becomes pointless, but that couldn’t be further from the truth. It is in this format that the creators breathe life into their fictional world, making us believe that it existed before the first scene, and will continue to exist after the last. Unsurprisingly, Windy Tales, like most Japanese, Korean, and Chinese stories, follows the [Kishotenketsu story format](https://lunalane.art/why-japanese-storytelling-is-so-different-compared-to-the-west/#post-images-1), as opposed to a three-act structure (rest assured, the story is wrapped with a sweet little bow that will leave you with that longing feeling that all good stories do when they end). Personally, I’m biased toward this story structure, not that the typical three-act, hero’s journey structure of the Western media is wrong. If we can divide a year into spring, summer, autumn, and winter, we can divide a story into four and find balance and beauty in that.
 
 (A kind reminder that Shakespeare, arguably the most famous writer of the English language, wrote his plays using a FIVE act structure).
 
-<img width="300vw" src="{{ site.url }}/assets/img/articles//windy-tales/4.png"/>
+<img  width="600vw" src="{{ site.url }}/assets/img/articles//windy-tales/4.png"/>
 
 *Cherry blossoms, as seen in episode 12*
 
@@ -90,13 +92,16 @@ There is something beautiful about Windy Tales that cannot be put into words. It
 
 If all this sounds even remotely interesting to you, I deeply encourage you to watch Windy Tales. At the time of writing this article, Windy Tales was available in DVD format on Amazon, but sadly I could find no (legal) streaming option. I fully intend to buy the DVD, yet I fear that this will not support the creators, as all DVDs are resells at this point, at least in the West. If possible, track the current works of people who participated in the creation of the anime and support those.
 
-<img width="300vw" src="{{ site.url }}/assets/img/articles//windy-tales/5.png"/>
+<img  width="600vw" src="{{ site.url }}/assets/img/articles//windy-tales/5.png"/>
 
-<img width="300vw" src="{{ site.url }}/assets/img/articles//windy-tales/6.png"/>
+<img  width="600vw" src="{{ site.url }}/assets/img/articles//windy-tales/6.png"/>
 
 Sources
 
 1. Ebert, R. (n.d.). _Hayao Miyazaki interview: Interviews: Roger Ebert_. Interviews | Roger Ebert. [https://www.rogerebert.com/interviews/hayao-miyazaki-interview](https://www.rogerebert.com/interviews/hayao-miyazaki-interview)
+
 2. Wikimedia Foundation. (2023, October 10). _MA (negative space)_. Wikipedia. [https://en.wikipedia.org/wiki/Ma\_(negative\_space)](https://en.wikipedia.org/wiki/Ma_(negative_space))
+
 3. _Why Japanese storytelling is so different compared to the West • Lunalane_. lunalane. (2023, May 31). [https://lunalane.art/why-japanese-storytelling-is-so-different-compared-to-the-west/](https://lunalane.art/why-japanese-storytelling-is-so-different-compared-to-the-west/)
+
 4. _Fuujin Monogatari_. MyAnimeList.net. (n.d.-b). [https://myanimelist.net/anime/1524/Fuujin\_Monogatari](https://myanimelist.net/anime/1524/Fuujin_Monogatari)

@@ -419,13 +419,13 @@ I’ll leave Ygg Studio’s Haibane Renmei analysis video as a nice end to this 
 
 <img  width="600vw"  src="{{ site.url }}/assets/img/articles/haibane-renmei/70.png"/>
 
-<!-- <center><i>Trixie always delivers great videos! Show her some love in the comments of the video below!<center><i> -->
+Trixie always delivers great videos! Show her some love in the comments of the video below!
 
-<!-- {% include youtube.html id="dp2HnJB2a2s" %} -->
+{% include youtube.html id="dp2HnJB2a2s" %}
 
 Sources:
 --------------
-<!--1. Archipel. (2018, June 1). Yoshitoshi Abe, from lain to niea_7. YouTube. (https://youtu.be/VbadywNSKTs?si=M-u9WOGyZNMsBWx7)
+1. Archipel. (2018, June 1). Yoshitoshi Abe, from lain to niea_7. YouTube. (https://youtu.be/VbadywNSKTs?si=M-u9WOGyZNMsBWx7)
 
  2. Cliffhanger. TV Tropes. (n.d.-b). [https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger](https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger)
 
@@ -452,4 +452,3 @@ Sources:
 13. Wikimedia Foundation. (2024c, February 16). _On the Trinity_. Wikipedia. [https://en.wikipedia.org/wiki/On_the_Trinity](https://en.wikipedia.org/wiki/On_the_Trinity)
 
 14. Ygg Studio. (2022, February 4). _Haibane Renmei: Escaping emotional purgatory — anime alphabet_. YouTube. [https://www.youtube.com/watch?v=dp2HnJB2a2s](https://www.youtube.com/watch?v=dp2HnJB2a2s)
- -->

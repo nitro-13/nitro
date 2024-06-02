@@ -423,11 +423,13 @@ I’ll leave Ygg Studio’s Haibane Renmei analysis video as a nice end to this 
 
 {% include youtube.html id="dp2HnJB2a2s" %}
 
+
+
 Sources
+--------------
+<!--1. Archipel. (2018, June 1). Yoshitoshi Abe, from lain to niea_7. YouTube. (https://youtu.be/VbadywNSKTs?si=M-u9WOGyZNMsBWx7)
 
-1. Archipel. (2018, June 1). Yoshitoshi Abe, from lain to niea_7. YouTube. (https://youtu.be/VbadywNSKTs?si=M-u9WOGyZNMsBWx7)
-
-<!-- 2. Cliffhanger. TV Tropes. (n.d.-b). [https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger](https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger)
+ 2. Cliffhanger. TV Tropes. (n.d.-b). [https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger](https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger)
 
 3. Wikimedia Foundation. (2023, December 20). Haibane Renmei. Wikipedia. (https://en.wikipedia.org/wiki/Haibane_Renmei)
 

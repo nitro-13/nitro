@@ -406,7 +406,7 @@ In the end, Reki chose to ask for help, getting saved by Rakka, and forgiven of 
 
 <img  width="600vw"  src="{{ site.url }}/assets/img/articles/haibane-renmei/68.png"/>
 
-Final thoughts
+Final thoughts:
 --------------
 
 In the end, Haibane Renmei was as much Reki’s story as it was Rakka’s, because it was a story of propping each other up. Instead of codependence, if the feelings are sincere, we can provide each other salvation. Each person has the power to be a guardian angel to someone else.
@@ -423,9 +423,7 @@ I’ll leave Ygg Studio’s Haibane Renmei analysis video as a nice end to this 
 
 <!-- {% include youtube.html id="dp2HnJB2a2s" %} -->
 
-
-
-Sources
+Sources:
 --------------
 <!--1. Archipel. (2018, June 1). Yoshitoshi Abe, from lain to niea_7. YouTube. (https://youtu.be/VbadywNSKTs?si=M-u9WOGyZNMsBWx7)
 

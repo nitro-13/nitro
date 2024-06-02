@@ -417,11 +417,12 @@ There is a beautiful allegory that says Heaven and Hell are identical places, la
 
 I’ll leave Ygg Studio’s Haibane Renmei analysis video as a nice end to this article. I hope you have enjoyed reading, and if you haven’t seen the anime, I strongly encourage you to watch it! [Haibane Renmei is available to stream in the US on Funimation Now, and to buy on Apple TV+, Amazon Prime Video and Microsoft Store](https://www.justwatch.com/us/tv-show/haibane-renmei).
 
-<img  width="600vw"  src="{{ site.url }}/assets/img/articles/haibane-renmei/70.png"/>
-
 <center><i>Trixie always delivers great videos! Show her some love in the comments of the video below!<center><i>
 
 {% include youtube.html id="dp2HnJB2a2s" %}
+
+<img  width="600vw"  src="{{ site.url }}/assets/img/articles/haibane-renmei/70.png"/>
+
 
 Sources
 -----------

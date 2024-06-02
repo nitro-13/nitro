@@ -426,7 +426,7 @@ I’ll leave Ygg Studio’s Haibane Renmei analysis video as a nice end to this 
 Sources
 -----------
 
-1. Archipel. (2018, June 1). Yoshitoshi Abe, from lain to niea\_7. YouTube. <https://youtu.be/VbadywNSKTs?si=M-u9WOGyZNMsBWx7>
+1. Archipel. (2018, June 1). Yoshitoshi Abe, from lain to niea_7. YouTube. <https://youtu.be/VbadywNSKTs?si=M-u9WOGyZNMsBWx7>
 
 2. _Cliffhanger_. TV Tropes. (n.d.-b). [https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger](https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger)
 

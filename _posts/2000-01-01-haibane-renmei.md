@@ -417,21 +417,19 @@ There is a beautiful allegory that says Heaven and Hell are identical places, la
 
 I’ll leave Ygg Studio’s Haibane Renmei analysis video as a nice end to this article. I hope you have enjoyed reading, and if you haven’t seen the anime, I strongly encourage you to watch it! [Haibane Renmei is available to stream in the US on Funimation Now, and to buy on Apple TV+, Amazon Prime Video and Microsoft Store](https://www.justwatch.com/us/tv-show/haibane-renmei).
 
+<img  width="600vw"  src="{{ site.url }}/assets/img/articles/haibane-renmei/70.png"/>
+
 <center><i>Trixie always delivers great videos! Show her some love in the comments of the video below!<center><i>
 
 {% include youtube.html id="dp2HnJB2a2s" %}
 
-<img  width="600vw"  src="{{ site.url }}/assets/img/articles/haibane-renmei/70.png"/>
-
-
 Sources
------------
 
-1. Archipel. (2018, June 1). Yoshitoshi Abe, from lain to niea_7. YouTube. <https://youtu.be/VbadywNSKTs?si=M-u9WOGyZNMsBWx7>
+1. Archipel. (2018, June 1). Yoshitoshi Abe, from lain to niea_7. YouTube. (https://youtu.be/VbadywNSKTs?si=M-u9WOGyZNMsBWx7)
 
-2. _Cliffhanger_. TV Tropes. (n.d.-b). [https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger](https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger)
+2. Cliffhanger. TV Tropes. (n.d.-b). [https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger](https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger)
 
-3. Wikimedia Foundation. (2023, December 20). Haibane Renmei. Wikipedia. <https://en.wikipedia.org/wiki/Haibane_Renmei>
+3. Wikimedia Foundation. (2023, December 20). Haibane Renmei. Wikipedia. (https://en.wikipedia.org/wiki/Haibane_Renmei)
 
 4. Aerial view above the Arc de Triomphe Paris France. — royalty free … (n.d.). [https://stockagency.panthermedia.net/m/stock-photos/27448352/aerial-view-above-the-arc-de/](https://stockagency.panthermedia.net/m/stock-photos/27448352/aerial-view-above-the-arc-de/)
 
@@ -441,7 +439,7 @@ Sources
 
 7. Wikimedia Foundation. (2024c, March 12). _Solar deity_. Wikipedia. [https://en.wikipedia.org/wiki/Solar_deity](https://en.wikipedia.org/wiki/Solar_deity)
 
-8. _All just a dream_. TV Tropes. (n.d.). [https://tvtropes.org/pmwiki/pmwiki.php/Main/AllJustADream](https://tvtropes.org/pmwiki/pmwiki.php/Main/AllJustADream)
+8. All just a dream. TV Tropes. (n.d.). [https://tvtropes.org/pmwiki/pmwiki.php/Main/AllJustADream](https://tvtropes.org/pmwiki/pmwiki.php/Main/AllJustADream)
 
 9. Wikimedia Foundation. (2023, November 14). _ALMS_. Wikipedia. [https://en.wikipedia.org/wiki/Alms#In_Eastern_Christianity](https://en.wikipedia.org/wiki/Alms#In_Eastern_Christianity)
 

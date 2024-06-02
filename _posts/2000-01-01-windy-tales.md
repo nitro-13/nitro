@@ -2,7 +2,7 @@
 title: "[NITRO-13 ARTICLE] Windy Tales soothes my heart"
 layout: post
 ---
-
+{% include toc.html %}
 
 # Windy Tales soothes my heart
 

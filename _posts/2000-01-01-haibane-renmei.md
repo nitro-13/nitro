@@ -3,7 +3,7 @@ title: "[NITRO-13 ARTICLE] Haibane Renmei watch diary/analysis (spoilers. obviou
 layout: post
 ---
 
-
+{% include toc.html %}
 
 Haibane Renmei watch diary/analysis (spoilers. obviously…)
 ============================================================

@@ -419,9 +419,9 @@ I’ll leave Ygg Studio’s Haibane Renmei analysis video as a nice end to this 
 
 <img  width="600vw"  src="{{ site.url }}/assets/img/articles/haibane-renmei/70.png"/>
 
-{% include youtube.html id="dp2HnJB2a2s" %}
+<center><i>Trixie always delivers great videos! Show her some love in the comments of the video below!<center><i>
 
-<center><i>Trixie always delivers great videos! Show her some love in the comments!<center><i>
+{% include youtube.html id="dp2HnJB2a2s" %}
 
 Sources
 -----------

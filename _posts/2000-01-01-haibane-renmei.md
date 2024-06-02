@@ -427,7 +427,7 @@ Sources
 
 1. Archipel. (2018, June 1). Yoshitoshi Abe, from lain to niea_7. YouTube. (https://youtu.be/VbadywNSKTs?si=M-u9WOGyZNMsBWx7)
 
-2. Cliffhanger. TV Tropes. (n.d.-b). [https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger](https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger)
+<!-- 2. Cliffhanger. TV Tropes. (n.d.-b). [https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger](https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger)
 
 3. Wikimedia Foundation. (2023, December 20). Haibane Renmei. Wikipedia. (https://en.wikipedia.org/wiki/Haibane_Renmei)
 
@@ -452,3 +452,4 @@ Sources
 13. Wikimedia Foundation. (2024c, February 16). _On the Trinity_. Wikipedia. [https://en.wikipedia.org/wiki/On_the_Trinity](https://en.wikipedia.org/wiki/On_the_Trinity)
 
 14. Ygg Studio. (2022, February 4). _Haibane Renmei: Escaping emotional purgatory — anime alphabet_. YouTube. [https://www.youtube.com/watch?v=dp2HnJB2a2s](https://www.youtube.com/watch?v=dp2HnJB2a2s)
+ -->

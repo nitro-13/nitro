@@ -7,7 +7,7 @@ layout: post
 # Windy Tales soothes my heart
 
 
-<img  width="600vw" src="{{ site.url }}/assets/img/articles//windy-tales/1.png"/>
+<img  width="600vw" src="{{ site.url }}/assets/img/articles/windy-tales/1.png"/>
 
 <center><i>flying cats and mellow vibes</i></center>
 
@@ -27,7 +27,7 @@ While Windy Tales is pretty episodic, each chapter handling a more-or-less self-
 
 The main characters are **Nao**, a very endearing girl with a passion for photography (particularly clouds), **Miki**, her best friend and the other member of the photography club, and **Jun**, an energetic and kind-hearted classmate. While most characters are pretty episodic, it’s common to spot the flying cats and the math teacher, **Mr. Taiki**, or **Ryouko**, another student, both wind manipulators already by the time the story starts. There’s also a plethora of cute cats that float around on wind currents!
 
-<img  width="600vw" src="{{ site.url }}/assets/img/articles//windy-tales/2.png"/>
+<img  width="600vw" src="{{ site.url }}/assets/img/articles/windy-tales/2.png"/>
 
 <center><i>the main trio</i></center>
 
@@ -78,13 +78,13 @@ Animation is a wonderful medium because it requires a greater skill in observing
 
 There is [a great **Roger Ebert** interview with **Hayao Miyazaki**](https://www.rogerebert.com/interviews/hayao-miyazaki-interview) about the concept of **_Ma (negative space)_**. Miyazaki and Ebert spoke about those moments of tranquility, the tiny actions such as stretching your back after sitting on a chair for too long, or wiping a pair of foggy glasses when it’s cold outside. Those moments show a great degree of empathy from the director and the animation staff because they are not plot-related, so they are added out of love for the world they are creating. Animation is not as utilitarian as live-action. You will find such care for the little moments in Windy Tales. In fact, I’ll go as far as to say that Windy Tales is 80% _Ma_.
 
-<img  width="600vw" src="{{ site.url }}/assets/img/articles//windy-tales/3.png"/>
+<img  width="600vw" src="{{ site.url }}/assets/img/articles/windy-tales/3.png"/>
 
 There is no great overarching story in Windy Tales. The anime starts at one point in the characters’ lives and exits at another. One could say that the story becomes pointless, but that couldn’t be further from the truth. It is in this format that the creators breathe life into their fictional world, making us believe that it existed before the first scene, and will continue to exist after the last. Unsurprisingly, Windy Tales, like most Japanese, Korean, and Chinese stories, follows the [Kishotenketsu story format](https://lunalane.art/why-japanese-storytelling-is-so-different-compared-to-the-west/#post-images-1), as opposed to a three-act structure (rest assured, the story is wrapped with a sweet little bow that will leave you with that longing feeling that all good stories do when they end). Personally, I’m biased toward this story structure, not that the typical three-act, hero’s journey structure of the Western media is wrong. If we can divide a year into spring, summer, autumn, and winter, we can divide a story into four and find balance and beauty in that.
 
 (A kind reminder that Shakespeare, arguably the most famous writer of the English language, wrote his plays using a FIVE act structure).
 
-<img  width="600vw" src="{{ site.url }}/assets/img/articles//windy-tales/4.png"/>
+<img  width="600vw" src="{{ site.url }}/assets/img/articles/windy-tales/4.png"/>
 
 <center><i>Cherry blossoms, as seen in episode 12</i></center>
 
@@ -92,9 +92,9 @@ There is something beautiful about Windy Tales that cannot be put into words. It
 
 If all this sounds even remotely interesting to you, I deeply encourage you to watch Windy Tales. At the time of writing this article, Windy Tales was available in DVD format on Amazon, but sadly I could find no (legal) streaming option. I fully intend to buy the DVD, yet I fear that this will not support the creators, as all DVDs are resells at this point, at least in the West. If possible, track the current works of people who participated in the creation of the anime and support those.
 
-<img  width="600vw" src="{{ site.url }}/assets/img/articles//windy-tales/5.png"/>
+<img  width="600vw" src="{{ site.url }}/assets/img/articles/windy-tales/5.png"/>
 
-<img  width="600vw" src="{{ site.url }}/assets/img/articles//windy-tales/6.png"/>
+<img  width="600vw" src="{{ site.url }}/assets/img/articles/windy-tales/6.png"/>
 
 Sources
 

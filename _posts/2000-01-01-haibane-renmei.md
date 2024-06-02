@@ -426,11 +426,9 @@ I’ll leave Ygg Studio’s Haibane Renmei analysis video as a nice end to this 
 Sources
 -----------
 
-
-
-1. Archipel. (2018, June 1). Yoshitoshi Abe, from lain to niea\_7. YouTube. https://youtu.be/VbadywNSKTs?si=M-u9WOGyZNMsBWx7
+1. Archipel. (2018, June 1). Yoshitoshi Abe, from lain to niea\_7. YouTube. <https://youtu.be/VbadywNSKTs?si=M-u9WOGyZNMsBWx7>
 2. _Cliffhanger_. TV Tropes. (n.d.-b). [https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger](https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger)
-3. Wikimedia Foundation. (2023, December 20). Haibane Renmei. Wikipedia. https://en.wikipedia.org/wiki/Haibane\_Renmei
+3. Wikimedia Foundation. (2023, December 20). Haibane Renmei. Wikipedia. <https://en.wikipedia.org/wiki/Haibane\_Renmei>
 4. Aerial view above the Arc de Triomphe Paris France. — royalty free … (n.d.). [https://stockagency.panthermedia.net/m/stock-photos/27448352/aerial-view-above-the-arc-de/](https://stockagency.panthermedia.net/m/stock-photos/27448352/aerial-view-above-the-arc-de/)
 5. Wikimedia Foundation. (2024, March 12). _List of people in both the Bible and the Quran_. Wikipedia. [https://en.wikipedia.org/wiki/List\_of\_people\_in\_both\_the\_Bible\_and\_the\_Quran](https://en.wikipedia.org/wiki/List_of_people_in_both_the_Bible_and_the_Quran)
 6. Wikimedia Foundation. (2024a, February 3). _Gilgamesh flood myth_. Wikipedia. [https://en.wikipedia.org/wiki/Gilgamesh\_flood\_myth](https://en.wikipedia.org/wiki/Gilgamesh_flood_myth)

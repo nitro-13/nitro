@@ -421,7 +421,7 @@ I’ll leave Ygg Studio’s Haibane Renmei analysis video as a nice end to this 
 
 <center><i>Trixie always delivers great videos! Show her some love in the comments of the video below!<center><i>
 
-{% include youtube.html id="dp2HnJB2a2s" %}
+<!-- {% include youtube.html id="dp2HnJB2a2s" %} -->
 
 
 

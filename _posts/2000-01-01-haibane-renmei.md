@@ -430,26 +430,26 @@ Sources
 
 2. _Cliffhanger_. TV Tropes. (n.d.-b). [https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger](https://tvtropes.org/pmwiki/pmwiki.php/Main/Cliffhanger)
 
-3. Wikimedia Foundation. (2023, December 20). Haibane Renmei. Wikipedia. <https://en.wikipedia.org/wiki/Haibane\_Renmei>
+3. Wikimedia Foundation. (2023, December 20). Haibane Renmei. Wikipedia. <https://en.wikipedia.org/wiki/Haibane_Renmei>
 
 4. Aerial view above the Arc de Triomphe Paris France. — royalty free … (n.d.). [https://stockagency.panthermedia.net/m/stock-photos/27448352/aerial-view-above-the-arc-de/](https://stockagency.panthermedia.net/m/stock-photos/27448352/aerial-view-above-the-arc-de/)
 
-5. Wikimedia Foundation. (2024, March 12). _List of people in both the Bible and the Quran_. Wikipedia. [https://en.wikipedia.org/wiki/List\_of\_people\_in\_both\_the\_Bible\_and\_the\_Quran](https://en.wikipedia.org/wiki/List_of_people_in_both_the_Bible_and_the_Quran)
+5. Wikimedia Foundation. (2024, March 12). _List of people in both the Bible and the Quran_. Wikipedia. [https://en.wikipedia.org/wiki/List_of_people_in_both_the_Bible_and_the_Quran](https://en.wikipedia.org/wiki/List_of_people_in_both_the_Bible_and_the_Quran)
 
-6. Wikimedia Foundation. (2024a, February 3). _Gilgamesh flood myth_. Wikipedia. [https://en.wikipedia.org/wiki/Gilgamesh\_flood\_myth](https://en.wikipedia.org/wiki/Gilgamesh_flood_myth)
+6. Wikimedia Foundation. (2024a, February 3). _Gilgamesh flood myth_. Wikipedia. [https://en.wikipedia.org/wiki/Gilgamesh_flood_myth](https://en.wikipedia.org/wiki/Gilgamesh_flood_myth)
 
-7. Wikimedia Foundation. (2024c, March 12). _Solar deity_. Wikipedia. [https://en.wikipedia.org/wiki/Solar\_deity](https://en.wikipedia.org/wiki/Solar_deity)
+7. Wikimedia Foundation. (2024c, March 12). _Solar deity_. Wikipedia. [https://en.wikipedia.org/wiki/Solar_deity](https://en.wikipedia.org/wiki/Solar_deity)
 
 8. _All just a dream_. TV Tropes. (n.d.). [https://tvtropes.org/pmwiki/pmwiki.php/Main/AllJustADream](https://tvtropes.org/pmwiki/pmwiki.php/Main/AllJustADream)
 
-9. Wikimedia Foundation. (2023, November 14). _ALMS_. Wikipedia. [https://en.wikipedia.org/wiki/Alms#In\_Eastern\_Christianity](https://en.wikipedia.org/wiki/Alms#In_Eastern_Christianity)
+9. Wikimedia Foundation. (2023, November 14). _ALMS_. Wikipedia. [https://en.wikipedia.org/wiki/Alms#In_Eastern_Christianity](https://en.wikipedia.org/wiki/Alms#In_Eastern_Christianity)
 
-10. Wikimedia Foundation. (2024d, March 15). _Tree of Life_. Wikipedia. [https://en.wikipedia.org/wiki/Tree\_of\_life](https://en.wikipedia.org/wiki/Tree_of_life)
+10. Wikimedia Foundation. (2024d, March 15). _Tree of Life_. Wikipedia. [https://en.wikipedia.org/wiki/Tree_of_life](https://en.wikipedia.org/wiki/Tree_of_life)
 
 11. Trejo, P. (n.d.). _What does Nietzsche mean by, “whoever fights monsters should see to it that in the process he does not become a monster” and “if you gaze…_ Quora. [https://qr.ae/pssgEk](https://qr.ae/pssgEk)
 
-12. Wikimedia Foundation. (2024, February 15). _Red in culture_. Wikipedia. [https://en.wikipedia.org/wiki/Red\_in\_culture](https://en.wikipedia.org/wiki/Red_in_culture)
+12. Wikimedia Foundation. (2024, February 15). _Red in culture_. Wikipedia. [https://en.wikipedia.org/wiki/Red_in_culture](https://en.wikipedia.org/wiki/Red_in_culture)
 
-13. Wikimedia Foundation. (2024c, February 16). _On the Trinity_. Wikipedia. [https://en.wikipedia.org/wiki/On\_the\_Trinity](https://en.wikipedia.org/wiki/On_the_Trinity)
+13. Wikimedia Foundation. (2024c, February 16). _On the Trinity_. Wikipedia. [https://en.wikipedia.org/wiki/On_the_Trinity](https://en.wikipedia.org/wiki/On_the_Trinity)
 
 14. Ygg Studio. (2022, February 4). _Haibane Renmei: Escaping emotional purgatory — anime alphabet_. YouTube. [https://www.youtube.com/watch?v=dp2HnJB2a2s](https://www.youtube.com/watch?v=dp2HnJB2a2s)

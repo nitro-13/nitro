@@ -6,7 +6,7 @@ date: 2021-01-01
 ---
 ![Logo]({{ site.url }}/{{ site.picture }}){: .selfie}
 
-I love unpretentious writing, as art should be made for people, not critics and awards. I believe most classics of today are just the entertainment of their time that stood the test of time and is in the process of being gatekept by an elite of jerkoffs.
+I love unpretentious writing, as art should be made for people, not critics and awards. I believe most classics of today are just the entertainment of their time that stood the test of time and are currently gatekept by toxic people.
 
 I added the **13** in the name because I'm a pretty unlucky person and I figured an unlucky number would cancel out my bad luck. 
      

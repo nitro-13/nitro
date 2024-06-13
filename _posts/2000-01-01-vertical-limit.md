@@ -12,6 +12,8 @@ images:
       caption: Syndell
     - image: /assets/img/vertical-limit/SAMYAZA.png
       caption: Samyaza
+    - image: /assets/img/vertical-limit/METATRON.png
+      caption: Metatron
     - image: /assets/img/vertical-limit/JAVELIN.png
       caption: Javelin
     - image: /assets/img/vertical-limit/SENTINEL_INSIGNIA.png

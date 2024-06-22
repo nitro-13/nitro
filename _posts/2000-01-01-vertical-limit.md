@@ -6,20 +6,10 @@ project: true
 tag:
     - vertical-limit
 images: 
-    - image: /assets/img/vertical-limit/HELVIG.png
-      caption: Helvig
-    - image: /assets/img/vertical-limit/SYNDELL.png
-      caption: Syndell
-    - image: /assets/img/vertical-limit/SAMYAZA.png
-      caption: Samyaza
-    - image: /assets/img/vertical-limit/METATRON.png
-      caption: Metatron
-    - image: /assets/img/vertical-limit/JAVELIN.png
-      caption: Javelin
-    - image: /assets/img/vertical-limit/SENTINEL_INSIGNIA.png
-      caption: Sentinel insignia
     - image: /assets/img/vertical-limit/SENTINEL_UNIFORM.png
       caption: Sentinel uniform
+    - image: /assets/img/vertical-limit/SENTINEL_INSIGNIA.png
+      caption: Sentinel insignia
     - image: /assets/img/vertical-limit/KOMA_ALPHABET.png
       caption: Koma alphabet
 

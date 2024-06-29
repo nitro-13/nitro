@@ -12,6 +12,16 @@ images:
       caption: Sentinel insignia
     - image: /assets/img/vertical-limit/KOMA_ALPHABET.png
       caption: Koma alphabet
+    - image: /assets/img/vertical-limit/HELVIG.png
+      caption: Helvig
+    - image: /assets/img/vertical-limit/SYNDELL.png
+      caption: Syndell
+    - image: /assets/img/vertical-limit/CALEB.png
+      caption: Caleb
+    - image: /assets/img/vertical-limit/SAMYAZA.png
+      caption: Samyaza
+    - image: /assets/img/vertical-limit/METATRON.png
+      caption: Metatron
 
 ---
 {% include toc.html %}
